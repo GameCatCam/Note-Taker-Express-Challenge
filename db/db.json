@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Example",
+        "text": "This is an example! Teehee~!",
+        "id": "a521c8a8-a412-434e-8ad2-7ebb4def2b6d"
+    },
+    {
+        "title": "Delete Me!~",
+        "text": "You can test out the delete by deleting me! It would be so cool!",
+        "id": "baa13324-c422-433c-b52e-09efb10b652d"
     }
 ]
